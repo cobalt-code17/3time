@@ -1,0 +1,6 @@
+{
+  "name": "CHRONO-BREACH",
+  "description": "3D PvE tri-timeline FPS where players phase-shift between Past Ruin, Present Bio-Lab, and Future Cyber-Citadel to capture Chrono-Anchors and stabilize reality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
